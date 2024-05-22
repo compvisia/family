@@ -1,4 +1,4 @@
-## family of compvisia software
+## family of compvisia products
 
 |Repository|Information|Dependencies|
 |------|-----|-----|
